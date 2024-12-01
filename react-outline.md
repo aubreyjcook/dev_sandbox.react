@@ -21,3 +21,6 @@ This repo was created and maintained mainly by developer AJC. This outline is me
 #### Tutorials
 
 #### Articles
+
+### Notes
+
