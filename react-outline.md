@@ -14,6 +14,10 @@ This repo was created and maintained mainly by developer AJC. This outline is me
 
 ### Fundamentals
 
+#### DOM
+
+##### APIs
+
 ### Primary Resources
 
 #### Documentation
