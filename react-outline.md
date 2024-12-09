@@ -12,6 +12,8 @@ This repo was created and maintained mainly by developer AJC. This outline is me
 
 ### Description
 
+React.js ia Javascript library. It's main purpose is for creating user interfaces in web applications. The React syntax makes use of JSX (Javascript XML) which is a syntax extension that allows for the use of HTML-like syntax in Javascript. The React architectural pattern is based on components, which represent specific parts of the user interface in such a way that they can be reused, composed, and assembled to form front-end interfaces.
+
 ### Fundamentals
 
 #### DOM
