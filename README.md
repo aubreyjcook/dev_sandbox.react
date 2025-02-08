@@ -1,6 +1,6 @@
-# _TEMPLATE_dev_sandbox.ajc
+# dev_sandbox.react
 
-Technology-agnostic sandbox environment for developing implementations of programming solutions.
+Technology-agnostic sandbox environment for developing implementations of programming solutions utilizing React.JS.
 
 ## Purpose
 
@@ -10,8 +10,10 @@ Notable exception: TypeScript.
 
 ## Todos
 
-- [ ] Todo 1
-- [ ] Todo 2
+02-08-2025
+- [ ] Basic TS details
+- [ ] Create demo within JS app for every hook type.
+- [ ] Create a in-page component refresher to display all content without leaving the page.
 
 ## Pseudo-Directory-Structure (Optional)
 
