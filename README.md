@@ -127,4 +127,20 @@ npm error A complete log of this run can be found in: [REDACTION]\AppData\Local\
 `npm install --no-audit --save @testing-library/jest-dom@^5.14.1 @testing-library/react@^13.0.0 @testing-library/user-event@^13.2.1 @types/jest@^27.0.1 @types/node@^16.7.13 @types/react@^18.0.0 @types/react-dom@^18.0.0 typescript@^4.4.2 web-vitals@^2.1.0` failed
 
 
+CMD 03: js> npm install web-vitals
+
+[REDACTION]\dev_sandbox.react\js> npm install web-vitals
+
+added 1 package, and audited 1327 packages in 2s
+
+268 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
 ```
